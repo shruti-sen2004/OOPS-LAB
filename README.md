@@ -1,11 +1,11 @@
 # OOPS-LAB
 
-##LAB 1 
+## LAB 1 
 Create a class to represent points in 2D plane with proper constructors. Create objects of this class within the main():
 a) in the same class
 b) in a different class
 
-##LAB 2 
+## LAB 2 
 A. Creat a class to represent stack (for
 integer data).
 B. Now, create another class to evaluate
@@ -16,7 +16,7 @@ Stack class.
 
 2*3+1 ===> 23*1+   (answer 7)
 
-##LAB 3
+## LAB 3
 1. Create a single class to implement the following using suitable methods.
 a) Write a program to show whether the number is prime. Data will be taken from the command line argument.
 b) Write a program to show the prime numbers in a given range using the command line.
@@ -27,7 +27,7 @@ b) Write a program to show the prime numbers in a given range using the command 
 
 4. Create a class named “DesignPattern” with different static methods to draw triangle, rectangle, and square using ‘*’. Demonstrate the class using the main method.
 
-##LAB 4 
+## LAB 4 
 Q#1
 A. Create a base class named "Person" with attributes like name and age. The class must have a proper constructor.
 B. Create a subclass named "Employee" by inheriting the "Person" class. Add these attributes: employeeId and salary.
@@ -47,7 +47,7 @@ D. Now, create a suitable program which will do the following:
 4. List all registered voters.
 5. List all invalid voters.
 
-##LAB 5
+## LAB 5
 1. Write a Java program to create an abstract class named "Student". Now inherit the class and create two subclasses - CseStudent and ItStudent. The class must have an abstract method "giveExam()".
 a) Now, within the main method, create objects of the instantiable classes and call the above-mentioned method on behalf of each object. 
 
